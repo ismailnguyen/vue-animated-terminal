@@ -1,8 +1,8 @@
 {
   "name": "vue-animated-terminal",
   "short_description": "VueJS Terminal with animated text",
-  "description": "vue-animated-terminal is a CSS based terminal with an animated text.", 
-  "version": "1.0.0",
+  "description": "vue-animated-terminal is a CSS based terminal with an animated text.",
+  "version": "1.0.3",
   "author": "Ismaïl NGUYEN <nguyen.ismail@gmail.com>",
   "repository": "https://github.com/ismailnguyen/vue-animated-terminal.git",
   "license": "Under WTFPL licence",
